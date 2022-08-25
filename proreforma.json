@@ -1,0 +1,1583 @@
+{
+    "result": [
+        {
+            "id": "b4a9f43b-7c46-45f1-9229-9c37d6351198",
+            "name": "Porcelanato",
+            "type": "Filtro",
+            "interventionId": "c11edad1-ae84-415c-afac-3143814fe896",
+            "productCategories": [
+                {
+                    "id": "a1c2dd53-0adc-4eb7-9792-2944e8687d68",
+                    "name": "Porcelanato",
+                    "unityMeasurement": "M2",
+                    "packageProdutcs": [
+                        {
+                            "id": "14b11fd1-836a-4cc0-80ca-12f3d437f7bd",
+                            "unityPack": "1,77",
+                            "descriptionPack": "caixas",
+                            "heightPack": "não informado",
+                            "widthPack": "não informado",
+                            "lengthPack": "não informado",
+                            "weightPack": "não informado",
+                            "barCode": "7891285504405",
+                            "imgUrl": "https://pro-ref.s3.amazonaws.com/jfdxv77jpxfvcq0sh4cms9.jpg",
+                            "productId": "a7affee4-964c-490f-8f14-4626be21a350",
+                            "undConsumo": 130,
+                            "qtTotal": "230.10",
+                            "qtNecessaria": "230.00",
+                            "qtSobra": "0.04",
+                            "minVlrConsumo": 17485.299,
+                            "stores": [
+                                {
+                                    "price": "134.5023",
+                                    "storeUrl": "www.cec.com.br/pisos-e-revestimentos/porcelanatos/porcelanatos-ate-60x60/porcelanato-esmaltado-fosco-borda-bold-york-soft-grey-hard-60x60cm?produto=1348597",
+                                    "vlrConsumo": 17485.299,
+                                    "store": [
+                                        {
+                                            "name": "C&C online",
+                                            "retail": [
+                                                {
+                                                    "name": "C&C",
+                                                    "logoUrl": "https://pro-ref.s3.amazonaws.com/1uac5poad1f1suf17lbijp.jpg"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ],
+                            "products": {
+                                "id": "a7affee4-964c-490f-8f14-4626be21a350",
+                                "name": "Porcelanato Borda Bold 59,5x59,5 Portinari York SGR Hard",
+                                "model": "Coleção York",
+                                "manufacturerCode": "60406",
+                                "manufacturerLink": "https://www.ceramicaportinari.com.br/pt/produtos/york-sgr-hard-bold-60x60",
+                                "manualPdf": "https://drive.google.com/drive/folders/1Aq05jm6_x8eUhnLIEwc9spdsLQxvemgs?usp=sharing",
+                                "commercialColor": "não se aplica",
+                                "benefits": "",
+                                "technicalObservations": "Os critérios de desempenho, especificação e quantificação dos produtos seguiram as regras estabelecidas nos boletins técnicos, manuais e catálogos dos fabricantes, além de interpretações definidas por nossa equipe técnica no documento \"Critérios de desempenho\" disponível em nosso site. Eventuais diferenças podem ocorrer caso o fabricante tenha alterado especificidades do produto após a data de atualização deste cadastro (28/06/2022).",
+                                "isService": false,
+                                "productCategoryId": "a1c2dd53-0adc-4eb7-9792-2944e8687d68",
+                                "productSpecifics": [
+                                    {
+                                        "id": "1d586381-7245-4b16-81b5-6d79edb76531",
+                                        "value": "9.5",
+                                        "isVisible": true,
+                                        "isValid": true,
+                                        "createdAt": "2020-10-26T17:39:40.603Z",
+                                        "updatedAt": "2020-10-26T17:39:40.603Z",
+                                        "productId": "a7affee4-964c-490f-8f14-4626be21a350",
+                                        "productCategorySpecificationId": "2318dfc6-8a3b-4208-9ab6-ea4537e33e94"
+                                    },
+                                    {
+                                        "id": "bff1a8d6-8f25-479c-a0d9-16be3c79e49e",
+                                        "value": "0.5",
+                                        "isVisible": true,
+                                        "isValid": true,
+                                        "createdAt": "2020-10-26T17:39:40.612Z",
+                                        "updatedAt": "2020-10-26T17:39:40.612Z",
+                                        "productId": "a7affee4-964c-490f-8f14-4626be21a350",
+                                        "productCategorySpecificationId": "a63a31fc-53ab-4999-91a9-2c17a1c762a6"
+                                    },
+                                    {
+                                        "id": "5b774c1d-effa-4822-979a-044820cccf56",
+                                        "value": "arredondada",
+                                        "isVisible": true,
+                                        "isValid": true,
+                                        "createdAt": "2020-10-26T17:39:40.619Z",
+                                        "updatedAt": "2020-10-26T17:39:40.619Z",
+                                        "productId": "a7affee4-964c-490f-8f14-4626be21a350",
+                                        "productCategorySpecificationId": "0abfe3c4-378e-4bbf-93d2-7d596c1c57ab"
+                                    },
+                                    {
+                                        "id": "75347e19-5f5f-4345-a81f-9c0787e4e823",
+                                        "value": "59.5",
+                                        "isVisible": true,
+                                        "isValid": true,
+                                        "createdAt": "2020-10-26T17:39:40.625Z",
+                                        "updatedAt": "2020-10-26T17:39:40.625Z",
+                                        "productId": "a7affee4-964c-490f-8f14-4626be21a350",
+                                        "productCategorySpecificationId": "b1803beb-536f-4b70-b037-daeec4520bb2"
+                                    },
+                                    {
+                                        "id": "280afe6c-c635-449a-ae23-1dd2bc8744b2",
+                                        "value": "59.5",
+                                        "isVisible": true,
+                                        "isValid": true,
+                                        "createdAt": "2020-10-26T17:39:40.628Z",
+                                        "updatedAt": "2020-10-26T17:39:40.628Z",
+                                        "productId": "a7affee4-964c-490f-8f14-4626be21a350",
+                                        "productCategorySpecificationId": "7f1c4b15-5b69-450f-8b79-54d9358e7aba"
+                                    },
+                                    {
+                                        "id": "9bfb0af4-e939-4d8d-947f-bf909d3e4ffb",
+                                        "value": "3",
+                                        "isVisible": true,
+                                        "isValid": true,
+                                        "createdAt": "2020-10-26T17:39:40.632Z",
+                                        "updatedAt": "2020-10-26T17:39:40.632Z",
+                                        "productId": "a7affee4-964c-490f-8f14-4626be21a350",
+                                        "productCategorySpecificationId": "78aa5d0c-1d43-4e0b-8ec9-402e08cc4833"
+                                    },
+                                    {
+                                        "id": "ce673058-5002-4ff8-940d-8ac7a48655ad",
+                                        "value": "3540.25",
+                                        "isVisible": true,
+                                        "isValid": true,
+                                        "createdAt": "2020-10-26T17:39:40.637Z",
+                                        "updatedAt": "2020-10-26T17:39:40.637Z",
+                                        "productId": "a7affee4-964c-490f-8f14-4626be21a350",
+                                        "productCategorySpecificationId": "fc8c31f5-a4c1-47df-a0a5-9d1c8f25c6f0"
+                                    },
+                                    {
+                                        "id": "fd54117c-f48b-4008-b8b0-ba7cfbdde5a2",
+                                        "value": "não",
+                                        "isVisible": true,
+                                        "isValid": true,
+                                        "createdAt": "2020-10-26T17:39:40.641Z",
+                                        "updatedAt": "2022-06-28T13:36:41.021Z",
+                                        "productId": "a7affee4-964c-490f-8f14-4626be21a350",
+                                        "productCategorySpecificationId": "13e82ef1-93e3-4ca7-a38c-612882d72db5"
+                                    }
+                                ],
+                                "manufacturers": {
+                                    "name": "Dexco"
+                                }
+                            },
+                            "allOk": true,
+                            "page": 0,
+                            "appearFilt": true,
+                            "aPartirDe": 17485.299,
+                            "lowPrice": 134.5023
+                        },
+                        {
+                            "id": "6ac9ef53-9f55-4d05-a7bf-d56578665edd",
+                            "unityPack": "1,54",
+                            "descriptionPack": "caixas",
+                            "heightPack": "não informado",
+                            "widthPack": "não informado",
+                            "lengthPack": "não informado",
+                            "weightPack": "32",
+                            "barCode": "7899060652914",
+                            "imgUrl": "https://proref-s3.s3.us-east-2.amazonaws.com/g69hw2a56lgzuq62cmom8.jpg",
+                            "productId": "887488b1-351c-4ea1-ae8b-9106ac6e065c",
+                            "undConsumo": 150,
+                            "qtTotal": "231.00",
+                            "qtNecessaria": "230.00",
+                            "qtSobra": "0.43",
+                            "minVlrConsumo": 19632.690000000002,
+                            "stores": [
+                                {
+                                    "price": "130.8846",
+                                    "storeUrl": "www.cec.com.br/pisos-e-revestimentos/porcelanatos/porcelanatos-ate-90x90/porcelanato-polido-borda-reta-snow-branco-62x62cm?produto=1227757",
+                                    "vlrConsumo": 19632.690000000002,
+                                    "store": [
+                                        {
+                                            "name": "C&C online",
+                                            "retail": [
+                                                {
+                                                    "name": "C&C",
+                                                    "logoUrl": "https://pro-ref.s3.amazonaws.com/1uac5poad1f1suf17lbijp.jpg"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ],
+                            "products": {
+                                "id": "887488b1-351c-4ea1-ae8b-9106ac6e065c",
+                                "name": "Porcelanato Borda Retificada 62x62 Elizabeth Snow HD Polido",
+                                "model": "não informado",
+                                "manufacturerCode": "não informado",
+                                "manufacturerLink": "https://www.elizabethrevestimentos.com.br/pt/produto/snow-po/",
+                                "manualPdf": "https://drive.google.com/drive/folders/19lex9k1CjRzsGFmjr939Zx5S-ATfnexS?usp=sharing",
+                                "commercialColor": "Snow",
+                                "benefits": "",
+                                "technicalObservations": "Os critérios de desempenho, especificação e quantificação dos produtos seguiram regras estabelecidas pelo fabricante em seus catálogos, manuais e boletins técnicos (disponíveis no link do “Manual Técnico”). A data de atualização do cadastro deste produto foi 13/04/2022. Eventuais diferenças podem ocorrer caso o fabricante tenha alterado os critérios do produto após esta data.",
+                                "isService": false,
+                                "productCategoryId": "a1c2dd53-0adc-4eb7-9792-2944e8687d68",
+                                "productSpecifics": [
+                                    {
+                                        "id": "d40cdf34-d694-4faa-812c-f7915d73e20f",
+                                        "value": "10",
+                                        "isVisible": true,
+                                        "isValid": true,
+                                        "createdAt": "2022-05-10T15:34:44.239Z",
+                                        "updatedAt": "2022-05-10T15:34:44.239Z",
+                                        "productId": "887488b1-351c-4ea1-ae8b-9106ac6e065c",
+                                        "productCategorySpecificationId": "2318dfc6-8a3b-4208-9ab6-ea4537e33e94"
+                                    },
+                                    {
+                                        "id": "c1aa3a0e-eb50-4649-9958-954170a84364",
+                                        "value": "62",
+                                        "isVisible": true,
+                                        "isValid": true,
+                                        "createdAt": "2022-05-10T15:34:44.262Z",
+                                        "updatedAt": "2022-05-10T15:34:44.262Z",
+                                        "productId": "887488b1-351c-4ea1-ae8b-9106ac6e065c",
+                                        "productCategorySpecificationId": "7f1c4b15-5b69-450f-8b79-54d9358e7aba"
+                                    },
+                                    {
+                                        "id": "4a3a7ddb-7b6b-4165-aa67-dc3c381d26c3",
+                                        "value": "62",
+                                        "isVisible": true,
+                                        "isValid": true,
+                                        "createdAt": "2022-05-10T15:34:44.272Z",
+                                        "updatedAt": "2022-05-10T15:34:44.272Z",
+                                        "productId": "887488b1-351c-4ea1-ae8b-9106ac6e065c",
+                                        "productCategorySpecificationId": "b1803beb-536f-4b70-b037-daeec4520bb2"
+                                    },
+                                    {
+                                        "id": "93694b0a-87e0-4b4a-a7fa-f1fe62836a27",
+                                        "value": "3844",
+                                        "isVisible": true,
+                                        "isValid": true,
+                                        "createdAt": "2022-05-10T15:34:44.278Z",
+                                        "updatedAt": "2022-05-10T15:34:44.278Z",
+                                        "productId": "887488b1-351c-4ea1-ae8b-9106ac6e065c",
+                                        "productCategorySpecificationId": "fc8c31f5-a4c1-47df-a0a5-9d1c8f25c6f0"
+                                    },
+                                    {
+                                        "id": "92b8ff19-674b-470f-83b6-965250601aed",
+                                        "value": "sim",
+                                        "isVisible": true,
+                                        "isValid": true,
+                                        "createdAt": "2022-05-10T15:34:44.284Z",
+                                        "updatedAt": "2022-05-10T15:34:44.284Z",
+                                        "productId": "887488b1-351c-4ea1-ae8b-9106ac6e065c",
+                                        "productCategorySpecificationId": "13e82ef1-93e3-4ca7-a38c-612882d72db5"
+                                    },
+                                    {
+                                        "id": "23d969f6-de92-4ea4-9f41-8dbca2d0548e",
+                                        "value": "0.5",
+                                        "isVisible": true,
+                                        "isValid": true,
+                                        "createdAt": "2022-05-10T15:34:44.291Z",
+                                        "updatedAt": "2022-05-10T15:34:44.291Z",
+                                        "productId": "887488b1-351c-4ea1-ae8b-9106ac6e065c",
+                                        "productCategorySpecificationId": "a63a31fc-53ab-4999-91a9-2c17a1c762a6"
+                                    },
+                                    {
+                                        "id": "2ac76cfb-715e-4933-bc8b-2b1d1ac7eb51",
+                                        "value": "reta",
+                                        "isVisible": true,
+                                        "isValid": true,
+                                        "createdAt": "2022-05-10T15:34:44.298Z",
+                                        "updatedAt": "2022-05-10T15:34:44.298Z",
+                                        "productId": "887488b1-351c-4ea1-ae8b-9106ac6e065c",
+                                        "productCategorySpecificationId": "0abfe3c4-378e-4bbf-93d2-7d596c1c57ab"
+                                    },
+                                    {
+                                        "id": "67d36467-a23f-47e4-9f9e-b5b39de922b4",
+                                        "value": "2",
+                                        "isVisible": true,
+                                        "isValid": true,
+                                        "createdAt": "2022-05-10T15:34:44.303Z",
+                                        "updatedAt": "2022-05-10T15:34:44.303Z",
+                                        "productId": "887488b1-351c-4ea1-ae8b-9106ac6e065c",
+                                        "productCategorySpecificationId": "78aa5d0c-1d43-4e0b-8ec9-402e08cc4833"
+                                    }
+                                ],
+                                "manufacturers": {
+                                    "name": "Grupo Elizabeth"
+                                }
+                            },
+                            "allOk": true,
+                            "page": 0,
+                            "appearFilt": true,
+                            "aPartirDe": 19632.690000000002,
+                            "lowPrice": 130.8846
+                        },
+                        {
+                            "id": "e713438b-0415-40c0-bc82-dcc22032d879",
+                            "unityPack": "1,58",
+                            "descriptionPack": "caixas",
+                            "heightPack": "não informado",
+                            "widthPack": "não informado",
+                            "lengthPack": "não informado",
+                            "weightPack": "31",
+                            "barCode": "7899060693016",
+                            "imgUrl": "https://proref-s3.s3.us-east-2.amazonaws.com/ryrky4v0mp4i1h5mbpcq.jpg",
+                            "productId": "87c6b59e-3ce9-4c2b-86eb-73f39ad5558a",
+                            "undConsumo": 146,
+                            "qtTotal": "230.68",
+                            "qtNecessaria": "230.00",
+                            "qtSobra": "0.30",
+                            "minVlrConsumo": 19817.018,
+                            "stores": [
+                                {
+                                    "price": "135.733",
+                                    "storeUrl": "www.cec.com.br/pisos-e-revestimentos/porcelanatos/porcelanatos-ate-90x90/porcelanato-esmaltado-acetinado-borda-reta-madrid-graf-62-5x62-5cm?produto=1367989",
+                                    "vlrConsumo": 19817.018,
+                                    "store": [
+                                        {
+                                            "name": "C&C online",
+                                            "retail": [
+                                                {
+                                                    "name": "C&C",
+                                                    "logoUrl": "https://pro-ref.s3.amazonaws.com/1uac5poad1f1suf17lbijp.jpg"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ],
+                            "products": {
+                                "id": "87c6b59e-3ce9-4c2b-86eb-73f39ad5558a",
+                                "name": "Porcelanato Borda Retificada 62.5x62.5 Elizabeth Madrid Grafite HD Acetinado",
+                                "model": "não informadoGrafite",
+                                "manufacturerCode": "não informado",
+                                "manufacturerLink": "https://www.elizabethrevestimentos.com.br/pt/produto/MADRID-GRAFITE-AC/",
+                                "manualPdf": "https://drive.google.com/drive/folders/1ckREPOBPkquACNakJ9xmcRwwfZI20KuP?usp=sharing",
+                                "commercialColor": "Madrid Grafite",
+                                "benefits": "",
+                                "technicalObservations": "Os critérios de desempenho, especificação e quantificação dos produtos seguiram regras estabelecidas pelo fabricante em seus catálogos, manuais e boletins técnicos (disponíveis no link do “Manual Técnico”). A data de atualização do cadastro deste produto foi 13/04/2022. Eventuais diferenças podem ocorrer caso o fabricante tenha alterado os critérios do produto após esta data.",
+                                "isService": false,
+                                "productCategoryId": "a1c2dd53-0adc-4eb7-9792-2944e8687d68",
+                                "productSpecifics": [
+                                    {
+                                        "id": "387027ab-f273-444e-9730-30f34599668b",
+                                        "value": "9",
+                                        "isVisible": true,
+                                        "isValid": true,
+                                        "createdAt": "2022-05-10T14:52:35.971Z",
+                                        "updatedAt": "2022-05-10T14:52:35.971Z",
+                                        "productId": "87c6b59e-3ce9-4c2b-86eb-73f39ad5558a",
+                                        "productCategorySpecificationId": "2318dfc6-8a3b-4208-9ab6-ea4537e33e94"
+                                    },
+                                    {
+                                        "id": "2573fb7b-14ae-41e2-ac18-20ff61c788c7",
+                                        "value": "62.5",
+                                        "isVisible": true,
+                                        "isValid": true,
+                                        "createdAt": "2022-05-10T14:52:36.016Z",
+                                        "updatedAt": "2022-05-10T14:52:36.016Z",
+                                        "productId": "87c6b59e-3ce9-4c2b-86eb-73f39ad5558a",
+                                        "productCategorySpecificationId": "b1803beb-536f-4b70-b037-daeec4520bb2"
+                                    },
+                                    {
+                                        "id": "d94f5c5c-43b9-4c36-8ff7-8fa8c4aaf5d7",
+                                        "value": "62.5",
+                                        "isVisible": true,
+                                        "isValid": true,
+                                        "createdAt": "2022-05-10T14:52:36.031Z",
+                                        "updatedAt": "2022-05-10T14:52:36.031Z",
+                                        "productId": "87c6b59e-3ce9-4c2b-86eb-73f39ad5558a",
+                                        "productCategorySpecificationId": "7f1c4b15-5b69-450f-8b79-54d9358e7aba"
+                                    },
+                                    {
+                                        "id": "886509ee-9b5a-47ea-965a-d9f02210db1c",
+                                        "value": "3906.25",
+                                        "isVisible": true,
+                                        "isValid": true,
+                                        "createdAt": "2022-05-10T14:52:36.046Z",
+                                        "updatedAt": "2022-05-10T14:52:36.046Z",
+                                        "productId": "87c6b59e-3ce9-4c2b-86eb-73f39ad5558a",
+                                        "productCategorySpecificationId": "fc8c31f5-a4c1-47df-a0a5-9d1c8f25c6f0"
+                                    },
+                                    {
+                                        "id": "6ccba661-1ae2-4bee-b90c-4bde07adb92f",
+                                        "value": "2",
+                                        "isVisible": true,
+                                        "isValid": true,
+                                        "createdAt": "2022-05-10T14:52:36.052Z",
+                                        "updatedAt": "2022-05-10T14:52:36.052Z",
+                                        "productId": "87c6b59e-3ce9-4c2b-86eb-73f39ad5558a",
+                                        "productCategorySpecificationId": "78aa5d0c-1d43-4e0b-8ec9-402e08cc4833"
+                                    },
+                                    {
+                                        "id": "5f347cde-e73e-4c56-bd8e-d9f8df866e03",
+                                        "value": "0.5",
+                                        "isVisible": true,
+                                        "isValid": true,
+                                        "createdAt": "2022-05-10T14:52:36.057Z",
+                                        "updatedAt": "2022-05-10T14:52:36.057Z",
+                                        "productId": "87c6b59e-3ce9-4c2b-86eb-73f39ad5558a",
+                                        "productCategorySpecificationId": "a63a31fc-53ab-4999-91a9-2c17a1c762a6"
+                                    },
+                                    {
+                                        "id": "4e9d0a29-02ba-4037-a3c2-09a55f37e05b",
+                                        "value": "reta",
+                                        "isVisible": true,
+                                        "isValid": true,
+                                        "createdAt": "2022-05-10T14:52:36.065Z",
+                                        "updatedAt": "2022-05-10T14:52:36.065Z",
+                                        "productId": "87c6b59e-3ce9-4c2b-86eb-73f39ad5558a",
+                                        "productCategorySpecificationId": "0abfe3c4-378e-4bbf-93d2-7d596c1c57ab"
+                                    },
+                                    {
+                                        "id": "0a9f992f-073d-490e-86ee-c7635e918d47",
+                                        "value": "não",
+                                        "isVisible": true,
+                                        "isValid": true,
+                                        "createdAt": "2022-05-10T14:52:36.070Z",
+                                        "updatedAt": "2022-05-10T14:52:36.070Z",
+                                        "productId": "87c6b59e-3ce9-4c2b-86eb-73f39ad5558a",
+                                        "productCategorySpecificationId": "13e82ef1-93e3-4ca7-a38c-612882d72db5"
+                                    }
+                                ],
+                                "manufacturers": {
+                                    "name": "Grupo Elizabeth"
+                                }
+                            },
+                            "allOk": true,
+                            "page": 0,
+                            "appearFilt": true,
+                            "aPartirDe": 19817.018,
+                            "lowPrice": 135.733
+                        }
+                    ],
+                    "totalProducts": 42
+                }
+            ],
+            "questions": [
+                {
+                    "id": "3e4ed2e9-1ef4-476c-a20e-8f97c2810daf",
+                    "query": "Tipo de borda porcelanato",
+                    "interjectionQuestion": "Tipo de borda porcelanato",
+                    "isVisible": true,
+                    "createdAt": "2020-05-14T13:07:28.699Z",
+                    "updatedAt": "2020-07-31T17:09:34.205Z",
+                    "answers": [
+                        {
+                            "id": "e60cdffa-32ac-4933-82d4-683d9170b9ae",
+                            "name": "reta",
+                            "description": "Juntas mais finas com menor consumo de rejunte e mais fácil de limpar",
+                            "imgUrl": "https://pro-ref.s3.amazonaws.com/w0isepqi8pkzxebhfj87f.jpg",
+                            "isVisible": true,
+                            "createdAt": "2020-05-14T13:07:28.733Z",
+                            "updatedAt": "2020-07-27T18:51:28.686Z",
+                            "questionId": "3e4ed2e9-1ef4-476c-a20e-8f97c2810daf"
+                        },
+                        {
+                            "id": "124856d1-b0ea-4c62-81fa-426408a9399f",
+                            "name": "arredondada",
+                            "description": "Juntas mais largas com maior consumo de rejunte e mais difícil de limpar",
+                            "imgUrl": "https://pro-ref.s3.amazonaws.com/50ivcgnxmujf91vk6b05xj.jpg",
+                            "isVisible": true,
+                            "createdAt": "2020-05-14T13:07:28.722Z",
+                            "updatedAt": "2020-07-31T17:07:35.012Z",
+                            "questionId": "3e4ed2e9-1ef4-476c-a20e-8f97c2810daf"
+                        }
+                    ]
+                }
+            ],
+            "combinations": {
+                "id": "d6d9d262-91c6-449e-87a6-197947efd750",
+                "isVisible": true,
+                "createdAt": "2020-06-08T18:53:37.172Z",
+                "updatedAt": "2020-06-08T18:53:37.172Z",
+                "groupId": "b4a9f43b-7c46-45f1-9229-9c37d6351198",
+                "specifications": [
+                    {
+                        "id": "1296c108-a7af-45f3-b30b-d8f46b16bf0a",
+                        "isVisible": true,
+                        "valueFilter": "arredondada",
+                        "createdAt": "2020-06-08T18:57:31.809Z",
+                        "updatedAt": "2020-06-08T19:12:02.982Z",
+                        "productApplicationId": "2aab6d99-e6ac-47ff-a64b-a27381c94623",
+                        "productCategoryId": "a1c2dd53-0adc-4eb7-9792-2944e8687d68",
+                        "productCategorySpecificationId": "0abfe3c4-378e-4bbf-93d2-7d596c1c57ab",
+                        "combinationId": "39e6bcf1-d0e3-4383-8655-8efc9f91333d"
+                    },
+                    {
+                        "id": "1c8aa2bc-72f7-40bf-b903-46382913c5a4",
+                        "isVisible": true,
+                        "valueFilter": "reta",
+                        "createdAt": "2020-07-09T12:06:21.545Z",
+                        "updatedAt": "2020-07-09T12:06:26.658Z",
+                        "productApplicationId": "2aab6d99-e6ac-47ff-a64b-a27381c94623",
+                        "productCategoryId": "a1c2dd53-0adc-4eb7-9792-2944e8687d68",
+                        "productCategorySpecificationId": "0abfe3c4-378e-4bbf-93d2-7d596c1c57ab",
+                        "combinationId": "d6d9d262-91c6-449e-87a6-197947efd750"
+                    }
+                ],
+                "combinationQuestionAnswers": [
+                    {
+                        "id": "538bd83f-8706-47f0-a504-2a919db24380",
+                        "isVisible": true,
+                        "createdAt": "2020-06-08T18:53:37.166Z",
+                        "updatedAt": "2020-06-08T18:53:37.166Z",
+                        "combinationId": "39e6bcf1-d0e3-4383-8655-8efc9f91333d",
+                        "questionId": "3e4ed2e9-1ef4-476c-a20e-8f97c2810daf",
+                        "answerId": "124856d1-b0ea-4c62-81fa-426408a9399f"
+                    },
+                    {
+                        "id": "2f8bdbbc-6846-4744-a537-c499bf67e401",
+                        "isVisible": true,
+                        "createdAt": "2020-06-08T18:53:37.184Z",
+                        "updatedAt": "2020-06-08T18:53:37.184Z",
+                        "combinationId": "d6d9d262-91c6-449e-87a6-197947efd750",
+                        "questionId": "3e4ed2e9-1ef4-476c-a20e-8f97c2810daf",
+                        "answerId": "e60cdffa-32ac-4933-82d4-683d9170b9ae"
+                    }
+                ]
+            },
+            "interventionName": "instalação de piso porcelanato"
+        },
+        {
+            "id": "56f37a4a-6e05-4acf-bca3-02acfe78ea6c",
+            "name": "Argamassa",
+            "type": "Neutro",
+            "interventionId": "c11edad1-ae84-415c-afac-3143814fe896",
+            "productCategories": [
+                {
+                    "id": "d430b1eb-aea6-460b-92c7-ecf4683c32f7",
+                    "name": "Argamassa colante",
+                    "unityMeasurement": "KG",
+                    "packageProdutcs": [
+                        {
+                            "id": "81406d68-82e4-41d9-8dd2-0e50d18ea09a",
+                            "unityPack": "20",
+                            "descriptionPack": "saco de plástico",
+                            "heightPack": null,
+                            "widthPack": null,
+                            "lengthPack": null,
+                            "weightPack": "20",
+                            "barCode": "7897255914588",
+                            "imgUrl": "https://pro-ref.s3.amazonaws.com/y79pz31seuhh1j4ivmpyb8.jpg",
+                            "productId": "8ea26be2-5c72-4331-897b-1be9f6cee52f",
+                            "undConsumo": 98,
+                            "qtTotal": "1960.00",
+                            "qtNecessaria": "1955.00",
+                            "qtSobra": "0.26",
+                            "minVlrConsumo": 2674.42,
+                            "stores": [
+                                {
+                                    "price": "27.29",
+                                    "storeUrl": "www.cec.com.br/material-de-construcao/cimentos-e-argamassas/argamassas/argamassa-colante-para-porcelanato-interno-cinza-20kg?produto=1131606&utm_content=material-de-construcao&utm_medium=cpc&utm_campaign=GoogleShop&utm_source=google-shopping&idpublicacao=791d2005-d206-4804-b297-71cab438caf1&gclid=CjwKCAjw5pPnBRBJEiwAULZKvnCJzNavEm563FUBS_NRK8YpWmVtjo9kK09tPvTgsPOT58-HpYvXCRoC25YQAvD_BwE",
+                                    "vlrConsumo": 2674.42,
+                                    "store": [
+                                        {
+                                            "name": "C&C online",
+                                            "retail": [
+                                                {
+                                                    "name": "C&C",
+                                                    "logoUrl": "https://pro-ref.s3.amazonaws.com/1uac5poad1f1suf17lbijp.jpg"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ],
+                            "products": {
+                                "id": "8ea26be2-5c72-4331-897b-1be9f6cee52f",
+                                "name": "Argamassa Porcelanatos e Cerâmicas Interno Quartzolit",
+                                "model": "Porcelanatos e Cerâmicas Interno",
+                                "manufacturerCode": "",
+                                "manufacturerLink": "",
+                                "manualPdf": "",
+                                "commercialColor": "cinza",
+                                "benefits": "",
+                                "technicalObservations": "",
+                                "isService": false,
+                                "productCategoryId": "d430b1eb-aea6-460b-92c7-ecf4683c32f7",
+                                "manufacturers": {
+                                    "name": "Saint Gobain"
+                                }
+                            },
+                            "allOk": true,
+                            "page": 0,
+                            "appearFilt": true,
+                            "aPartirDe": 2674.42,
+                            "lowPrice": 27.29
+                        },
+                        {
+                            "id": "3b4f3a08-1bdc-4661-8c58-a2041d194b35",
+                            "unityPack": "20",
+                            "descriptionPack": "sacos",
+                            "heightPack": "10",
+                            "widthPack": "34",
+                            "lengthPack": "50",
+                            "weightPack": "20",
+                            "barCode": "7891605000013",
+                            "imgUrl": "https://pro-ref.s3.amazonaws.com/6ewfrchrjqfma40gkj11om.jpg",
+                            "productId": "9dd7de23-75f0-4feb-87f1-6a48a68c1809",
+                            "undConsumo": 92,
+                            "qtTotal": "1840.00",
+                            "qtNecessaria": "1840.00",
+                            "qtSobra": "0.00",
+                            "minVlrConsumo": 2943.08,
+                            "stores": [
+                                {
+                                    "price": "31.99",
+                                    "storeUrl": "www.cec.com.br/material-de-construcao/cimentos-e-argamassas/argamassas/argamassa-overcoll-piso-sobre-piso-20kg-cinza?produto=1129177",
+                                    "vlrConsumo": 2943.08,
+                                    "store": [
+                                        {
+                                            "name": "C&C online",
+                                            "retail": [
+                                                {
+                                                    "name": "C&C",
+                                                    "logoUrl": "https://pro-ref.s3.amazonaws.com/1uac5poad1f1suf17lbijp.jpg"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ],
+                            "products": {
+                                "id": "9dd7de23-75f0-4feb-87f1-6a48a68c1809",
+                                "name": "Argamassa Colante Overcoll Cinza Fortaleza",
+                                "model": "Overcoll Cinza",
+                                "manufacturerCode": "não informado",
+                                "manufacturerLink": "encurtador.com.br/aFSV9",
+                                "manualPdf": "https://drive.google.com/drive/folders/1LwOxO0TmdstHexOztPDgVafbmLkMmDEj?usp=sharing",
+                                "commercialColor": "cinza",
+                                "benefits": "Para áreas que exigem maior desempenho; Secagem em até 4h",
+                                "technicalObservations": "Os critérios de desempenho, especificação e quantificação dos produtos seguiram regras estabelecidas pelo fabricante em seus catálogos, manuais e boletins técnicos (disponíveis no link do “Manual Técnico”). A data de atualização do cadastro deste produto foi 07/07/2021. Eventuais diferenças podem ocorrer caso o fabricante tenha alterado os critérios do produto após esta data.",
+                                "isService": false,
+                                "productCategoryId": "d430b1eb-aea6-460b-92c7-ecf4683c32f7",
+                                "manufacturers": {
+                                    "name": "Bostik"
+                                }
+                            },
+                            "page": 0,
+                            "appearFilt": true,
+                            "aPartirDe": 2943.08,
+                            "lowPrice": 31.99
+                        },
+                        {
+                            "id": "6a171dd3-d9e1-422a-8f58-e8b88d739c35",
+                            "unityPack": "20",
+                            "descriptionPack": "sacos plásticos",
+                            "heightPack": "10",
+                            "widthPack": "35",
+                            "lengthPack": "60",
+                            "weightPack": "20",
+                            "barCode": "7897255911341",
+                            "imgUrl": "https://pro-ref.s3.amazonaws.com/41x5hkbp8l11jm2nvfkf85.jpg",
+                            "productId": "bcb17ad4-6e14-4452-9250-085b78d8f171",
+                            "undConsumo": 92,
+                            "qtTotal": "1840.00",
+                            "qtNecessaria": "1840.00",
+                            "qtSobra": "0.00",
+                            "minVlrConsumo": 3679.0800000000004,
+                            "stores": [
+                                {
+                                    "price": "39.99",
+                                    "storeUrl": "www.cec.com.br/material-de-construcao/cimentos-e-argamassas/argamassas/argamassa-colante-para-porcelanato-piso-sobre-piso-externo-cinza-20kg?produto=1228068",
+                                    "vlrConsumo": 3679.0800000000004,
+                                    "store": [
+                                        {
+                                            "name": "C&C online",
+                                            "retail": [
+                                                {
+                                                    "name": "C&C",
+                                                    "logoUrl": "https://pro-ref.s3.amazonaws.com/1uac5poad1f1suf17lbijp.jpg"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ],
+                            "products": {
+                                "id": "bcb17ad4-6e14-4452-9250-085b78d8f171",
+                                "name": "Argamassa Porcelanato e Piso Sobre Piso Externo Cinza Quartzolit",
+                                "model": "Porcelanato e Piso Sobre Piso Externo Cinza",
+                                "manufacturerCode": "não informado",
+                                "manufacturerLink": "https://cutt.ly/kEBgeiJ",
+                                "manualPdf": "https://drive.google.com/drive/folders/1RD8ygIiRAGWYjykij6nj7dCJIJyjmdlb?usp=sharing",
+                                "commercialColor": "Cinza",
+                                "benefits": "Alta resistência; Secagem rápida; Fácil aplicação; Melhor trabalhabilidade",
+                                "technicalObservations": "Os critérios de desempenho, especificação e quantificação dos produtos seguiram regras estabelecidas pelo fabricante em seus catálogos, manuais e boletins técnicos (disponíveis no link do “Manual Técnico”). A data de atualização do cadastro deste produto foi 07/07/2021. Eventuais diferenças podem ocorrer caso o fabricante tenha alterado os critérios do produto após esta data.",
+                                "isService": false,
+                                "productCategoryId": "d430b1eb-aea6-460b-92c7-ecf4683c32f7",
+                                "manufacturers": {
+                                    "name": "Saint Gobain"
+                                }
+                            },
+                            "allOk": true,
+                            "page": 0,
+                            "appearFilt": true,
+                            "aPartirDe": 3679.0800000000004,
+                            "lowPrice": 39.99
+                        }
+                    ],
+                    "totalProducts": 7
+                }
+            ],
+            "questions": [],
+            "interventionName": "instalação de piso porcelanato"
+        },
+        {
+            "id": "51f7be90-6b65-44e6-9f35-2df88a3c88a9",
+            "name": "Espaçador",
+            "type": "Filtro",
+            "interventionId": "c11edad1-ae84-415c-afac-3143814fe896",
+            "productCategories": [
+                {
+                    "id": "9fdb8b5b-f397-4227-8086-9b0b9f62d8b3",
+                    "name": "Espaçador",
+                    "unityMeasurement": "U",
+                    "packageProdutcs": [
+                        {
+                            "id": "9adebd2b-faa9-4c84-a804-1dd5be1ddf01",
+                            "unityPack": "100",
+                            "descriptionPack": "pacotes",
+                            "heightPack": "1",
+                            "widthPack": "16",
+                            "lengthPack": "22",
+                            "weightPack": "0,03",
+                            "barCode": "7897451460506",
+                            "imgUrl": "https://pro-ref.s3.amazonaws.com/qlersr36oeiy58o905yib.jpg",
+                            "productId": "dbfc582a-8b6d-49d0-921f-d75f154f3551",
+                            "undConsumo": 6,
+                            "qtTotal": "600.00",
+                            "qtNecessaria": "588.80",
+                            "qtSobra": "1.90",
+                            "minVlrConsumo": 29.94,
+                            "stores": [
+                                {
+                                    "price": "4.99",
+                                    "storeUrl": "www.cec.com.br/material-de-construcao/espacadores/pacote-espacador-juntapiso-2-00mm-plastico?produto=1222271",
+                                    "vlrConsumo": 29.94,
+                                    "store": [
+                                        {
+                                            "name": "C&C online",
+                                            "retail": [
+                                                {
+                                                    "name": "C&C",
+                                                    "logoUrl": "https://pro-ref.s3.amazonaws.com/1uac5poad1f1suf17lbijp.jpg"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ],
+                            "products": {
+                                "id": "dbfc582a-8b6d-49d0-921f-d75f154f3551",
+                                "name": "Espaçador cruzeta Juntapiso 2mm Cortag",
+                                "model": "Juntapiso",
+                                "manufacturerCode": "60500",
+                                "manufacturerLink": "https://cortag.com.br/br/acessorios-para-colocacao-e-assentamento/180-espacador-juntapiso-2mm.html",
+                                "manualPdf": "https://drive.google.com/drive/folders/1NBFJmj6ReqNNmkQ6o2h9hZ03mZ7aOLi9?usp=sharing",
+                                "commercialColor": "não se aplica",
+                                "benefits": "",
+                                "technicalObservations": "Os critérios de desempenho e especificação dos espaçadores seguiu regras estabelecidas pelo fabricante em seus catálogos, manuais e boletins técnicos (disponíveis no link do “Manual Técnico”). A data de atualização do cadastro deste produto foi 03/08/2021. Eventuais diferenças podem ocorrer caso o fabricante tenha alterado os critérios do produto após esta data.",
+                                "isService": false,
+                                "productCategoryId": "9fdb8b5b-f397-4227-8086-9b0b9f62d8b3",
+                                "productSpecifics": [
+                                    {
+                                        "id": "c430c198-6342-47e6-b580-d4ccb3c580ce",
+                                        "value": "2",
+                                        "isVisible": true,
+                                        "isValid": true,
+                                        "createdAt": "2021-08-05T17:43:36.345Z",
+                                        "updatedAt": "2021-08-05T17:43:36.345Z",
+                                        "productId": "dbfc582a-8b6d-49d0-921f-d75f154f3551",
+                                        "productCategorySpecificationId": "9525e2c9-6914-4d0c-bcdd-3eccf1aef836"
+                                    },
+                                    {
+                                        "id": "d2018e11-227b-41f4-9599-2b381bede0e9",
+                                        "value": "cruzeta",
+                                        "isVisible": true,
+                                        "isValid": true,
+                                        "createdAt": "2021-08-05T17:43:36.356Z",
+                                        "updatedAt": "2021-08-05T17:43:36.356Z",
+                                        "productId": "dbfc582a-8b6d-49d0-921f-d75f154f3551",
+                                        "productCategorySpecificationId": "85e5edda-a299-4b0e-abf1-9a13ab23c990"
+                                    }
+                                ],
+                                "manufacturers": {
+                                    "name": "Cortag"
+                                }
+                            },
+                            "allOk": true,
+                            "page": 0,
+                            "appearFilt": true,
+                            "aPartirDe": 29.94,
+                            "lowPrice": 4.99
+                        },
+                        {
+                            "id": "8c97df51-4b32-4591-96e1-805ba8a711bf",
+                            "unityPack": "50",
+                            "descriptionPack": "pacotes",
+                            "heightPack": "19",
+                            "widthPack": "32,5",
+                            "lengthPack": "57,5",
+                            "weightPack": "0,005",
+                            "barCode": "7897451412963",
+                            "imgUrl": "https://pro-ref.s3.amazonaws.com/604y1ljot52fzly3r87hck.jpg",
+                            "productId": "c5b6472e-d052-457b-857e-83d91c359d7a",
+                            "undConsumo": 48,
+                            "qtTotal": "2400.00",
+                            "qtNecessaria": "2355.20",
+                            "qtSobra": "1.90",
+                            "minVlrConsumo": 1055.52,
+                            "stores": [
+                                {
+                                    "price": "21.99",
+                                    "storeUrl": "www.cec.com.br/material-de-construcao/espacadores/espacador-para-nivelamento-2-0mm-plastico?produto=1222296",
+                                    "vlrConsumo": 1055.52,
+                                    "store": [
+                                        {
+                                            "name": "C&C online",
+                                            "retail": [
+                                                {
+                                                    "name": "C&C",
+                                                    "logoUrl": "https://pro-ref.s3.amazonaws.com/1uac5poad1f1suf17lbijp.jpg"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ],
+                            "products": {
+                                "id": "c5b6472e-d052-457b-857e-83d91c359d7a",
+                                "name": "Clipe espaçador nivelador 2mm (Tradicional - não reciclado) Cortag",
+                                "model": "Tradicional",
+                                "manufacturerCode": "61296",
+                                "manufacturerLink": "https://bit.ly/3s46515",
+                                "manualPdf": "https://drive.google.com/drive/folders/1Nu7KM-IARo0GvAHwpr_EHtMkE7ZUXHlw?usp=sharing",
+                                "commercialColor": "não se aplica",
+                                "benefits": "",
+                                "technicalObservations": "Os critérios de desempenho e especificação dos espaçadores seguiu regras estabelecidas pelo fabricante em seus catálogos, manuais e boletins técnicos (disponíveis no link do “Manual Técnico”). A data de atualização do cadastro deste produto foi 06/08/2021. Eventuais diferenças podem ocorrer caso o fabricante tenha alterado os critérios do produto após esta data.",
+                                "isService": false,
+                                "productCategoryId": "9fdb8b5b-f397-4227-8086-9b0b9f62d8b3",
+                                "productSpecifics": [
+                                    {
+                                        "id": "f6d54f1b-7a00-4e62-a053-d293f9d5ea76",
+                                        "value": "2",
+                                        "isVisible": true,
+                                        "isValid": true,
+                                        "createdAt": "2021-08-09T03:54:36.966Z",
+                                        "updatedAt": "2021-08-09T03:54:36.966Z",
+                                        "productId": "c5b6472e-d052-457b-857e-83d91c359d7a",
+                                        "productCategorySpecificationId": "9525e2c9-6914-4d0c-bcdd-3eccf1aef836"
+                                    },
+                                    {
+                                        "id": "b1deac02-e0b3-4d6d-9a6d-2a8decf00aea",
+                                        "value": "nivelador",
+                                        "isVisible": true,
+                                        "isValid": true,
+                                        "createdAt": "2021-08-09T03:54:36.974Z",
+                                        "updatedAt": "2021-08-09T03:54:36.974Z",
+                                        "productId": "c5b6472e-d052-457b-857e-83d91c359d7a",
+                                        "productCategorySpecificationId": "85e5edda-a299-4b0e-abf1-9a13ab23c990"
+                                    }
+                                ],
+                                "manufacturers": {
+                                    "name": "Cortag"
+                                }
+                            },
+                            "page": 0,
+                            "appearFilt": true,
+                            "aPartirDe": 1055.52,
+                            "lowPrice": 21.99
+                        },
+                        {
+                            "id": "df03bd60-397e-4331-9533-e82a748af825",
+                            "unityPack": "50",
+                            "descriptionPack": "pacotes",
+                            "heightPack": null,
+                            "widthPack": null,
+                            "lengthPack": null,
+                            "weightPack": null,
+                            "barCode": "7898994620433",
+                            "imgUrl": "https://pro-ref.s3.amazonaws.com/l70rhx7vszol8k74smfh1q.jpg",
+                            "productId": "334f2135-a14b-4585-b804-9af7e1af26c2",
+                            "undConsumo": 48,
+                            "qtTotal": "2400.00",
+                            "qtNecessaria": "2355.20",
+                            "qtSobra": "1.90",
+                            "minVlrConsumo": 1266.72,
+                            "stores": [
+                                {
+                                    "price": "26.39",
+                                    "storeUrl": "www.cec.com.br/material-de-construcao/espacadores/clipe-espacador-n5-em-plastico-2mm-com-50-pecas?produto=1306634",
+                                    "vlrConsumo": 1266.72,
+                                    "store": [
+                                        {
+                                            "name": "C&C online",
+                                            "retail": [
+                                                {
+                                                    "name": "C&C",
+                                                    "logoUrl": "https://pro-ref.s3.amazonaws.com/1uac5poad1f1suf17lbijp.jpg"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ],
+                            "products": {
+                                "id": "334f2135-a14b-4585-b804-9af7e1af26c2",
+                                "name": "Clipe espaçador nivelador N5 2mm Bumax",
+                                "model": "N5",
+                                "manufacturerCode": "",
+                                "manufacturerLink": "https://bumax.ind.br/prod/nivelador-de-pisos-n5/",
+                                "manualPdf": "",
+                                "commercialColor": "",
+                                "benefits": "",
+                                "technicalObservations": "",
+                                "isService": false,
+                                "productCategoryId": "9fdb8b5b-f397-4227-8086-9b0b9f62d8b3",
+                                "productSpecifics": [
+                                    {
+                                        "id": "46bfd3ec-80d6-448a-952f-b79aa501b6c0",
+                                        "value": "2",
+                                        "isVisible": true,
+                                        "isValid": true,
+                                        "createdAt": "2020-06-17T13:54:54.716Z",
+                                        "updatedAt": "2020-06-17T13:54:54.716Z",
+                                        "productId": "334f2135-a14b-4585-b804-9af7e1af26c2",
+                                        "productCategorySpecificationId": "9525e2c9-6914-4d0c-bcdd-3eccf1aef836"
+                                    },
+                                    {
+                                        "id": "89103bc6-9a09-4c84-9dda-f1c2ea3adfdf",
+                                        "value": "nivelador",
+                                        "isVisible": true,
+                                        "isValid": true,
+                                        "createdAt": "2020-06-17T13:54:54.723Z",
+                                        "updatedAt": "2020-07-24T22:43:28.602Z",
+                                        "productId": "334f2135-a14b-4585-b804-9af7e1af26c2",
+                                        "productCategorySpecificationId": "85e5edda-a299-4b0e-abf1-9a13ab23c990"
+                                    }
+                                ],
+                                "manufacturers": {
+                                    "name": "Bumax"
+                                }
+                            },
+                            "allOk": true,
+                            "page": 0,
+                            "appearFilt": true,
+                            "aPartirDe": 1266.72,
+                            "lowPrice": 26.39
+                        }
+                    ],
+                    "totalProducts": 3
+                }
+            ],
+            "questions": [
+                {
+                    "id": "eacf2fc0-86e7-45d1-84c7-7e9fb46c42ee",
+                    "query": "Tipo de espaçador 3 opções",
+                    "interjectionQuestion": "Tipo de espaçador",
+                    "isVisible": true,
+                    "createdAt": "2020-05-14T13:07:28.703Z",
+                    "updatedAt": "2020-05-18T18:06:18.935Z",
+                    "answers": [
+                        {
+                            "id": "2f082dab-faca-4049-97b0-4dcd2e49f03b",
+                            "name": "cruzeta",
+                            "description": "Assentamento mais demorado e menor qualidade do nivelamento.",
+                            "imgUrl": "https://pro-ref.s3.amazonaws.com/v22dgikqehsnfh92cxvgi.jpg",
+                            "isVisible": true,
+                            "createdAt": "2020-05-14T13:07:28.770Z",
+                            "updatedAt": "2020-07-27T18:55:27.965Z",
+                            "questionId": "eacf2fc0-86e7-45d1-84c7-7e9fb46c42ee"
+                        },
+                        {
+                            "id": "18c6931f-72c2-4cf6-917d-64619d995017",
+                            "name": "nivelador",
+                            "description": "Assentamento mais rápido e maior qualidade do nivelamento. Pode ser reaproveitado.",
+                            "imgUrl": "https://pro-ref.s3.amazonaws.com/pmvcpngkoechmmmnl39dy9.jpg",
+                            "isVisible": true,
+                            "createdAt": "2020-05-14T13:07:28.775Z",
+                            "updatedAt": "2020-07-27T18:56:06.005Z",
+                            "questionId": "eacf2fc0-86e7-45d1-84c7-7e9fb46c42ee"
+                        },
+                        {
+                            "id": "555c0091-b8cf-4560-81cc-36d6a9fc0be2",
+                            "name": "robozinho",
+                            "description": "Assentamento mais rápido e maior qualidade do nivelamento. Não pode ser reaproveitado.",
+                            "imgUrl": "https://pro-ref.s3.amazonaws.com/4q30ediledwslnizpzsmrp.jpg",
+                            "isVisible": true,
+                            "createdAt": "2020-05-14T13:07:28.780Z",
+                            "updatedAt": "2020-07-27T18:56:11.551Z",
+                            "questionId": "eacf2fc0-86e7-45d1-84c7-7e9fb46c42ee"
+                        }
+                    ]
+                }
+            ],
+            "combinations": {
+                "id": "9e62a214-9746-4dd8-b37e-ba35a81bcc2f",
+                "isVisible": true,
+                "createdAt": "2020-06-25T10:52:24.356Z",
+                "updatedAt": "2020-06-25T10:52:24.356Z",
+                "groupId": "51f7be90-6b65-44e6-9f35-2df88a3c88a9",
+                "specifications": [
+                    {
+                        "id": "95c6b90f-85c1-428b-bb9c-80c99a939765",
+                        "isVisible": true,
+                        "valueFilter": "cruzeta",
+                        "createdAt": "2020-07-24T18:18:27.665Z",
+                        "updatedAt": "2020-07-24T18:18:33.598Z",
+                        "productApplicationId": "e08ea7f1-4b13-4265-95ac-3db91e848779",
+                        "productCategoryId": "9fdb8b5b-f397-4227-8086-9b0b9f62d8b3",
+                        "productCategorySpecificationId": "85e5edda-a299-4b0e-abf1-9a13ab23c990",
+                        "combinationId": "51542cbd-48ee-4b50-a3f3-21dde81b06ba"
+                    },
+                    {
+                        "id": "742fe676-fcf9-40ec-b66a-f32f08457877",
+                        "isVisible": true,
+                        "valueFilter": "nivelador",
+                        "createdAt": "2020-08-24T13:53:38.118Z",
+                        "updatedAt": "2020-08-24T13:53:45.785Z",
+                        "productApplicationId": "e08ea7f1-4b13-4265-95ac-3db91e848779",
+                        "productCategoryId": "9fdb8b5b-f397-4227-8086-9b0b9f62d8b3",
+                        "productCategorySpecificationId": "85e5edda-a299-4b0e-abf1-9a13ab23c990",
+                        "combinationId": "5c8f9485-c6c0-4a0c-acde-c29223d586f4"
+                    },
+                    {
+                        "id": "b16bff94-6762-4518-a3f1-5b2a3e195537",
+                        "isVisible": true,
+                        "valueFilter": "robozinho",
+                        "createdAt": "2020-06-25T10:53:23.741Z",
+                        "updatedAt": "2020-07-24T18:19:52.589Z",
+                        "productApplicationId": "e08ea7f1-4b13-4265-95ac-3db91e848779",
+                        "productCategoryId": "9fdb8b5b-f397-4227-8086-9b0b9f62d8b3",
+                        "productCategorySpecificationId": "85e5edda-a299-4b0e-abf1-9a13ab23c990",
+                        "combinationId": "9e62a214-9746-4dd8-b37e-ba35a81bcc2f"
+                    }
+                ],
+                "combinationQuestionAnswers": [
+                    {
+                        "id": "94abff26-6911-4ac0-bc3f-a9fdf44f4639",
+                        "isVisible": true,
+                        "createdAt": "2020-06-25T10:52:24.330Z",
+                        "updatedAt": "2020-06-25T10:52:24.330Z",
+                        "combinationId": "51542cbd-48ee-4b50-a3f3-21dde81b06ba",
+                        "questionId": "eacf2fc0-86e7-45d1-84c7-7e9fb46c42ee",
+                        "answerId": "2f082dab-faca-4049-97b0-4dcd2e49f03b"
+                    },
+                    {
+                        "id": "65382d59-843f-4c6f-be4f-4eb60412d083",
+                        "isVisible": true,
+                        "createdAt": "2020-06-25T10:52:24.351Z",
+                        "updatedAt": "2020-06-25T10:52:24.351Z",
+                        "combinationId": "5c8f9485-c6c0-4a0c-acde-c29223d586f4",
+                        "questionId": "eacf2fc0-86e7-45d1-84c7-7e9fb46c42ee",
+                        "answerId": "18c6931f-72c2-4cf6-917d-64619d995017"
+                    },
+                    {
+                        "id": "a97de0df-c7c0-4678-a5c7-31bf49d46926",
+                        "isVisible": true,
+                        "createdAt": "2020-06-25T10:52:24.375Z",
+                        "updatedAt": "2020-06-25T10:52:24.375Z",
+                        "combinationId": "9e62a214-9746-4dd8-b37e-ba35a81bcc2f",
+                        "questionId": "eacf2fc0-86e7-45d1-84c7-7e9fb46c42ee",
+                        "answerId": "555c0091-b8cf-4560-81cc-36d6a9fc0be2"
+                    }
+                ]
+            },
+            "interventionName": "instalação de piso porcelanato"
+        },
+        {
+            "id": "2687700a-31d0-4ca0-bf0c-51aede67d7ad",
+            "name": "Rejunte",
+            "type": "Filtro",
+            "interventionId": "c11edad1-ae84-415c-afac-3143814fe896",
+            "productCategories": [
+                {
+                    "id": "29efe20a-4249-4f4b-96e6-639749772f50",
+                    "name": "Rejunte",
+                    "unityMeasurement": "KG",
+                    "packageProdutcs": [
+                        {
+                            "id": "8577b959-44cc-491c-a5fa-06c6710aa892",
+                            "unityPack": "5",
+                            "descriptionPack": "sacos",
+                            "heightPack": "2",
+                            "widthPack": "26",
+                            "lengthPack": "34",
+                            "weightPack": "5",
+                            "barCode": "7891605001287",
+                            "imgUrl": "https://pro-ref.s3.amazonaws.com/b95b6n4xu98pblesjxfd9m.jpg",
+                            "productId": "86a48a32-a541-4a47-8800-f105688386b8",
+                            "undConsumo": 5,
+                            "qtTotal": "25.00",
+                            "qtNecessaria": "23.85",
+                            "qtSobra": "4.82",
+                            "minVlrConsumo": 144.95,
+                            "stores": [
+                                {
+                                    "price": "28.99",
+                                    "storeUrl": "www.cec.com.br/material-de-construcao/rejuntes/rejuntes/rejunte-flexivel-para-pisos-e-azulejos-bege-5kg?produto=1041591",
+                                    "vlrConsumo": 144.95,
+                                    "store": [
+                                        {
+                                            "name": "C&C online",
+                                            "retail": [
+                                                {
+                                                    "name": "C&C",
+                                                    "logoUrl": "https://pro-ref.s3.amazonaws.com/1uac5poad1f1suf17lbijp.jpg"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ],
+                            "products": {
+                                "id": "86a48a32-a541-4a47-8800-f105688386b8",
+                                "name": "Rejunta Flexível Fortaleza - Cor Bege",
+                                "model": "Flexível",
+                                "manufacturerCode": "não informado",
+                                "manufacturerLink": "https://bit.ly/3iwDJJI",
+                                "manualPdf": "https://drive.google.com/drive/folders/1ecvPSfT1sQ-sE27b2WFGGxw4nLjacanU?usp=sharing",
+                                "commercialColor": "Bege",
+                                "benefits": "",
+                                "technicalObservations": "Os critérios de desempenho, especificação e quantificação dos produtos seguiram regras estabelecidas pelo fabricante em seus catálogos, manuais e boletins técnicos (disponíveis no link do “Manual Técnico”). A data de atualização do cadastro deste produto foi 09/08/2021. Eventuais diferenças podem ocorrer caso o fabricante tenha alterado os critérios do produto após esta data.",
+                                "isService": false,
+                                "productCategoryId": "29efe20a-4249-4f4b-96e6-639749772f50",
+                                "productSpecifics": [
+                                    {
+                                        "id": "fff8f6f6-a329-4de6-b9bd-b2766eb46ebf",
+                                        "value": "cimentício",
+                                        "isVisible": true,
+                                        "isValid": true,
+                                        "createdAt": "2021-08-10T16:15:08.385Z",
+                                        "updatedAt": "2021-08-10T16:15:08.385Z",
+                                        "productId": "86a48a32-a541-4a47-8800-f105688386b8",
+                                        "productCategorySpecificationId": "ad7c04f0-e46b-4cb5-8815-c0cc184103b2"
+                                    },
+                                    {
+                                        "id": "7c903073-aa9c-4a64-be51-60e38978a8cd",
+                                        "value": "1.8",
+                                        "isVisible": true,
+                                        "isValid": true,
+                                        "createdAt": "2021-08-10T16:15:15.610Z",
+                                        "updatedAt": "2021-08-10T16:15:15.610Z",
+                                        "productId": "86a48a32-a541-4a47-8800-f105688386b8",
+                                        "productCategorySpecificationId": "f7c887e6-afcd-486b-b0af-a21158304927"
+                                    },
+                                    {
+                                        "id": "ceebf707-a6cb-4763-9d4b-ca9b439d3058",
+                                        "value": "2",
+                                        "isVisible": true,
+                                        "isValid": true,
+                                        "createdAt": "2021-08-10T16:15:23.978Z",
+                                        "updatedAt": "2021-08-10T16:15:23.978Z",
+                                        "productId": "86a48a32-a541-4a47-8800-f105688386b8",
+                                        "productCategorySpecificationId": "f88c976a-4424-4118-b660-10a488dbe1b2"
+                                    },
+                                    {
+                                        "id": "0bea2424-2b56-4060-a918-86499bb243c2",
+                                        "value": "16",
+                                        "isVisible": true,
+                                        "isValid": true,
+                                        "createdAt": "2021-08-10T16:15:30.589Z",
+                                        "updatedAt": "2021-08-10T16:15:30.589Z",
+                                        "productId": "86a48a32-a541-4a47-8800-f105688386b8",
+                                        "productCategorySpecificationId": "588f445b-6fdb-4402-add7-d9a31d6adfc3"
+                                    }
+                                ],
+                                "manufacturers": {
+                                    "name": "Bostik"
+                                }
+                            },
+                            "allOk": true,
+                            "page": 0,
+                            "appearFilt": true,
+                            "aPartirDe": 144.95,
+                            "lowPrice": 28.99
+                        },
+                        {
+                            "id": "d840388d-a63f-483a-8074-7d2cb521e33b",
+                            "unityPack": "5",
+                            "descriptionPack": "sacos",
+                            "heightPack": "3",
+                            "widthPack": "26",
+                            "lengthPack": "34",
+                            "weightPack": "5",
+                            "barCode": "7891605001263",
+                            "imgUrl": "https://pro-ref.s3.amazonaws.com/mlnh4szmxsq3esxr7ekgq6.jpg",
+                            "productId": "5f45ba8a-dc39-4e6c-ad7d-d5b727777509",
+                            "undConsumo": 5,
+                            "qtTotal": "25.00",
+                            "qtNecessaria": "23.85",
+                            "qtSobra": "4.82",
+                            "minVlrConsumo": 144.95,
+                            "stores": [
+                                {
+                                    "price": "28.99",
+                                    "storeUrl": "www.cec.com.br/material-de-construcao/rejuntes/rejuntes/rejunte-flexivel-1mm-a-16mm-5kg-branco?produto=1041585",
+                                    "vlrConsumo": 144.95,
+                                    "store": [
+                                        {
+                                            "name": "C&C online",
+                                            "retail": [
+                                                {
+                                                    "name": "C&C",
+                                                    "logoUrl": "https://pro-ref.s3.amazonaws.com/1uac5poad1f1suf17lbijp.jpg"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ],
+                            "products": {
+                                "id": "5f45ba8a-dc39-4e6c-ad7d-d5b727777509",
+                                "name": "Rejunta Flexível Fortaleza - Cor Branco",
+                                "model": "Flexível",
+                                "manufacturerCode": "não informado",
+                                "manufacturerLink": "https://bit.ly/3iwDJJI",
+                                "manualPdf": "https://drive.google.com/drive/folders/1ecvPSfT1sQ-sE27b2WFGGxw4nLjacanU?usp=sharing",
+                                "commercialColor": "branco",
+                                "benefits": "",
+                                "technicalObservations": "Os critérios de desempenho, especificação e quantificação dos produtos seguiram regras estabelecidas pelo fabricante em seus catálogos, manuais e boletins técnicos (disponíveis no link do “Manual Técnico”). A data de atualização do cadastro deste produto foi 09/08/2021. Eventuais diferenças podem ocorrer caso o fabricante tenha alterado os critérios do produto após esta data.",
+                                "isService": false,
+                                "productCategoryId": "29efe20a-4249-4f4b-96e6-639749772f50",
+                                "productSpecifics": [
+                                    {
+                                        "id": "2be9d221-e6e3-495e-9c56-4f79d80bd5b8",
+                                        "value": "cimentício",
+                                        "isVisible": true,
+                                        "isValid": true,
+                                        "createdAt": "2021-08-10T16:18:23.821Z",
+                                        "updatedAt": "2021-08-10T16:18:23.821Z",
+                                        "productId": "5f45ba8a-dc39-4e6c-ad7d-d5b727777509",
+                                        "productCategorySpecificationId": "ad7c04f0-e46b-4cb5-8815-c0cc184103b2"
+                                    },
+                                    {
+                                        "id": "f158dcf6-d842-4a04-a450-3e53d4678b39",
+                                        "value": "1.8",
+                                        "isVisible": true,
+                                        "isValid": true,
+                                        "createdAt": "2021-08-10T16:18:23.827Z",
+                                        "updatedAt": "2021-08-10T16:18:23.827Z",
+                                        "productId": "5f45ba8a-dc39-4e6c-ad7d-d5b727777509",
+                                        "productCategorySpecificationId": "f7c887e6-afcd-486b-b0af-a21158304927"
+                                    },
+                                    {
+                                        "id": "2639dec9-a26f-4bf9-801b-82c1db6324e1",
+                                        "value": "2",
+                                        "isVisible": true,
+                                        "isValid": true,
+                                        "createdAt": "2021-08-10T16:18:23.832Z",
+                                        "updatedAt": "2021-08-10T16:18:23.832Z",
+                                        "productId": "5f45ba8a-dc39-4e6c-ad7d-d5b727777509",
+                                        "productCategorySpecificationId": "f88c976a-4424-4118-b660-10a488dbe1b2"
+                                    },
+                                    {
+                                        "id": "85126238-99d7-4129-8711-31ee62f133e9",
+                                        "value": "16",
+                                        "isVisible": true,
+                                        "isValid": true,
+                                        "createdAt": "2021-08-10T16:18:23.835Z",
+                                        "updatedAt": "2021-08-10T16:18:23.835Z",
+                                        "productId": "5f45ba8a-dc39-4e6c-ad7d-d5b727777509",
+                                        "productCategorySpecificationId": "588f445b-6fdb-4402-add7-d9a31d6adfc3"
+                                    }
+                                ],
+                                "manufacturers": {
+                                    "name": "Bostik"
+                                }
+                            },
+                            "page": 0,
+                            "appearFilt": true,
+                            "aPartirDe": 144.95,
+                            "lowPrice": 28.99
+                        },
+                        {
+                            "id": "6c7e92a2-cc90-40d0-90e1-fc9c0417c5c3",
+                            "unityPack": "1",
+                            "descriptionPack": "sacos",
+                            "heightPack": "3",
+                            "widthPack": "16",
+                            "lengthPack": "25",
+                            "weightPack": "1",
+                            "barCode": "7891605000747",
+                            "imgUrl": "https://pro-ref.s3.amazonaws.com/481jljtq3fcl42tyxh64t.jpg",
+                            "productId": "86a48a32-a541-4a47-8800-f105688386b8",
+                            "undConsumo": 24,
+                            "qtTotal": "24.00",
+                            "qtNecessaria": "23.85",
+                            "qtSobra": "0.63",
+                            "minVlrConsumo": 203.76,
+                            "stores": [
+                                {
+                                    "price": "8.49",
+                                    "storeUrl": "www.cec.com.br/material-de-construcao/rejuntes/rejuntes/rejunte-flexivel-1mm-a-16mm-1kg-bege?produto=1039337",
+                                    "vlrConsumo": 203.76,
+                                    "store": [
+                                        {
+                                            "name": "C&C online",
+                                            "retail": [
+                                                {
+                                                    "name": "C&C",
+                                                    "logoUrl": "https://pro-ref.s3.amazonaws.com/1uac5poad1f1suf17lbijp.jpg"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ],
+                            "products": {
+                                "id": "86a48a32-a541-4a47-8800-f105688386b8",
+                                "name": "Rejunta Flexível Fortaleza - Cor Bege",
+                                "model": "Flexível",
+                                "manufacturerCode": "não informado",
+                                "manufacturerLink": "https://bit.ly/3iwDJJI",
+                                "manualPdf": "https://drive.google.com/drive/folders/1ecvPSfT1sQ-sE27b2WFGGxw4nLjacanU?usp=sharing",
+                                "commercialColor": "Bege",
+                                "benefits": "",
+                                "technicalObservations": "Os critérios de desempenho, especificação e quantificação dos produtos seguiram regras estabelecidas pelo fabricante em seus catálogos, manuais e boletins técnicos (disponíveis no link do “Manual Técnico”). A data de atualização do cadastro deste produto foi 09/08/2021. Eventuais diferenças podem ocorrer caso o fabricante tenha alterado os critérios do produto após esta data.",
+                                "isService": false,
+                                "productCategoryId": "29efe20a-4249-4f4b-96e6-639749772f50",
+                                "productSpecifics": [
+                                    {
+                                        "id": "fff8f6f6-a329-4de6-b9bd-b2766eb46ebf",
+                                        "value": "cimentício",
+                                        "isVisible": true,
+                                        "isValid": true,
+                                        "createdAt": "2021-08-10T16:15:08.385Z",
+                                        "updatedAt": "2021-08-10T16:15:08.385Z",
+                                        "productId": "86a48a32-a541-4a47-8800-f105688386b8",
+                                        "productCategorySpecificationId": "ad7c04f0-e46b-4cb5-8815-c0cc184103b2"
+                                    },
+                                    {
+                                        "id": "7c903073-aa9c-4a64-be51-60e38978a8cd",
+                                        "value": "1.8",
+                                        "isVisible": true,
+                                        "isValid": true,
+                                        "createdAt": "2021-08-10T16:15:15.610Z",
+                                        "updatedAt": "2021-08-10T16:15:15.610Z",
+                                        "productId": "86a48a32-a541-4a47-8800-f105688386b8",
+                                        "productCategorySpecificationId": "f7c887e6-afcd-486b-b0af-a21158304927"
+                                    },
+                                    {
+                                        "id": "ceebf707-a6cb-4763-9d4b-ca9b439d3058",
+                                        "value": "2",
+                                        "isVisible": true,
+                                        "isValid": true,
+                                        "createdAt": "2021-08-10T16:15:23.978Z",
+                                        "updatedAt": "2021-08-10T16:15:23.978Z",
+                                        "productId": "86a48a32-a541-4a47-8800-f105688386b8",
+                                        "productCategorySpecificationId": "f88c976a-4424-4118-b660-10a488dbe1b2"
+                                    },
+                                    {
+                                        "id": "0bea2424-2b56-4060-a918-86499bb243c2",
+                                        "value": "16",
+                                        "isVisible": true,
+                                        "isValid": true,
+                                        "createdAt": "2021-08-10T16:15:30.589Z",
+                                        "updatedAt": "2021-08-10T16:15:30.589Z",
+                                        "productId": "86a48a32-a541-4a47-8800-f105688386b8",
+                                        "productCategorySpecificationId": "588f445b-6fdb-4402-add7-d9a31d6adfc3"
+                                    }
+                                ],
+                                "manufacturers": {
+                                    "name": "Bostik"
+                                }
+                            },
+                            "allOk": true,
+                            "page": 0,
+                            "appearFilt": true,
+                            "aPartirDe": 203.76,
+                            "lowPrice": 8.49
+                        }
+                    ],
+                    "totalProducts": 9
+                }
+            ],
+            "questions": [
+                {
+                    "id": "b15013ea-f9dc-47f4-a68e-b356b16f4c02",
+                    "query": "Tipo de rejunte",
+                    "interjectionQuestion": "Tipo de rejunte",
+                    "isVisible": true,
+                    "createdAt": "2020-05-14T13:07:28.709Z",
+                    "updatedAt": "2020-05-14T13:07:28.709Z",
+                    "answers": [
+                        {
+                            "id": "ee186bbb-d39a-42c0-ba18-7cb192806b22",
+                            "name": "acrílico",
+                            "description": "Maior resistência à sujidade e mofo, textura lisa. Fácil aplicação e secagem rápida.",
+                            "imgUrl": "https://pro-ref.s3.amazonaws.com/kf2fh4gcd2q3p5zuflykdp.jpg",
+                            "isVisible": true,
+                            "createdAt": "2020-05-14T13:07:28.758Z",
+                            "updatedAt": "2021-07-07T17:23:01.631Z",
+                            "questionId": "b15013ea-f9dc-47f4-a68e-b356b16f4c02"
+                        },
+                        {
+                            "id": "595cbd8c-d1ee-476a-8eea-2a4f951ee553",
+                            "name": "cimentício",
+                            "description": "Menor resistência à sujidade e mofo, textura áspera. Fácil aplicação.",
+                            "imgUrl": "https://pro-ref.s3.amazonaws.com/wlx9d936mqqht9e7orprlr.jpg",
+                            "isVisible": true,
+                            "createdAt": "2020-05-14T13:07:28.752Z",
+                            "updatedAt": "2021-07-07T17:22:29.343Z",
+                            "questionId": "b15013ea-f9dc-47f4-a68e-b356b16f4c02"
+                        },
+                        {
+                            "id": "e3c774e4-3f7a-4424-8689-f9525a9b6aa0",
+                            "name": "epóxi",
+                            "description": "Máxima resistência à sujidade e mofo. Textura mais lisa. Aplicação mais difícil. Indicado para revestimentos mais lisos, sem rugosidades.",
+                            "imgUrl": "https://pro-ref.s3.amazonaws.com/jfevjwzvt903y6aafiunoy.jpg",
+                            "isVisible": true,
+                            "createdAt": "2020-05-14T13:07:28.763Z",
+                            "updatedAt": "2021-07-07T17:23:24.610Z",
+                            "questionId": "b15013ea-f9dc-47f4-a68e-b356b16f4c02"
+                        }
+                    ]
+                }
+            ],
+            "combinations": {
+                "id": "00424ce8-9ad9-4081-a0da-3d87adc41317",
+                "isVisible": true,
+                "createdAt": "2020-06-25T10:54:35.978Z",
+                "updatedAt": "2020-06-25T10:54:35.978Z",
+                "groupId": "2687700a-31d0-4ca0-bf0c-51aede67d7ad",
+                "specifications": [
+                    {
+                        "id": "55010238-1042-4481-ad91-e0a06c0aba82",
+                        "isVisible": true,
+                        "valueFilter": "cimentício",
+                        "createdAt": "2020-06-25T10:54:55.777Z",
+                        "updatedAt": "2020-06-25T10:55:01.693Z",
+                        "productApplicationId": "be5edd6b-5e98-4938-b298-629b9740cb08",
+                        "productCategoryId": "29efe20a-4249-4f4b-96e6-639749772f50",
+                        "productCategorySpecificationId": "ad7c04f0-e46b-4cb5-8815-c0cc184103b2",
+                        "combinationId": "948609bd-8512-4d6f-9774-118fa11fa153"
+                    },
+                    {
+                        "id": "e9c472ff-f46b-4c69-a32d-cbfbd588fca4",
+                        "isVisible": true,
+                        "valueFilter": "acrílico",
+                        "createdAt": "2020-06-25T10:55:16.805Z",
+                        "updatedAt": "2020-06-25T10:55:23.158Z",
+                        "productApplicationId": "be5edd6b-5e98-4938-b298-629b9740cb08",
+                        "productCategoryId": "29efe20a-4249-4f4b-96e6-639749772f50",
+                        "productCategorySpecificationId": "ad7c04f0-e46b-4cb5-8815-c0cc184103b2",
+                        "combinationId": "0c471689-dda8-4393-a83b-186c10f2b342"
+                    },
+                    {
+                        "id": "be5a6963-9f83-4017-bb09-ea89f4984a59",
+                        "isVisible": true,
+                        "valueFilter": "epóxi",
+                        "createdAt": "2020-06-25T10:55:38.454Z",
+                        "updatedAt": "2020-06-25T10:55:44.605Z",
+                        "productApplicationId": "be5edd6b-5e98-4938-b298-629b9740cb08",
+                        "productCategoryId": "29efe20a-4249-4f4b-96e6-639749772f50",
+                        "productCategorySpecificationId": "ad7c04f0-e46b-4cb5-8815-c0cc184103b2",
+                        "combinationId": "00424ce8-9ad9-4081-a0da-3d87adc41317"
+                    }
+                ],
+                "combinationQuestionAnswers": [
+                    {
+                        "id": "8d5c6460-f080-49b0-a2de-de7113dc77ff",
+                        "isVisible": true,
+                        "createdAt": "2020-06-25T10:54:35.955Z",
+                        "updatedAt": "2020-06-25T10:54:35.955Z",
+                        "combinationId": "948609bd-8512-4d6f-9774-118fa11fa153",
+                        "questionId": "b15013ea-f9dc-47f4-a68e-b356b16f4c02",
+                        "answerId": "595cbd8c-d1ee-476a-8eea-2a4f951ee553"
+                    },
+                    {
+                        "id": "b2666ceb-0a19-49c9-be75-54fcc3057b8b",
+                        "isVisible": true,
+                        "createdAt": "2020-06-25T10:54:35.973Z",
+                        "updatedAt": "2020-06-25T10:54:35.973Z",
+                        "combinationId": "0c471689-dda8-4393-a83b-186c10f2b342",
+                        "questionId": "b15013ea-f9dc-47f4-a68e-b356b16f4c02",
+                        "answerId": "ee186bbb-d39a-42c0-ba18-7cb192806b22"
+                    },
+                    {
+                        "id": "4b49d5a2-3ef3-4308-9052-5849de46a705",
+                        "isVisible": true,
+                        "createdAt": "2020-06-25T10:54:36.004Z",
+                        "updatedAt": "2020-06-25T10:54:36.004Z",
+                        "combinationId": "00424ce8-9ad9-4081-a0da-3d87adc41317",
+                        "questionId": "b15013ea-f9dc-47f4-a68e-b356b16f4c02",
+                        "answerId": "e3c774e4-3f7a-4424-8689-f9525a9b6aa0"
+                    }
+                ]
+            },
+            "interventionName": "instalação de piso porcelanato"
+        },
+        {
+            "id": "81f4e410-b779-403b-be0b-3ff71bff0117",
+            "name": "MO - assentar",
+            "type": "Neutro",
+            "interventionId": "c11edad1-ae84-415c-afac-3143814fe896",
+            "productCategories": [
+                {
+                    "id": "b8e92176-5a2b-4219-83cf-2c83a916b527",
+                    "name": "serviço assentar revestimento de porcelanato",
+                    "unityMeasurement": "M2",
+                    "packageProdutcs": [
+                        {
+                            "id": "1c3294ac-5b53-4968-940b-f6c261c77f10",
+                            "unityPack": "1",
+                            "descriptionPack": "m2.",
+                            "heightPack": "não se aplica",
+                            "widthPack": "não se aplica",
+                            "lengthPack": "não se aplica",
+                            "weightPack": "não se aplica",
+                            "barCode": "1232225898988",
+                            "imgUrl": "https://pro-ref.s3.amazonaws.com/5y6paqdrbmsa4bx5dqovs6.jpg",
+                            "productId": "d96a54f9-f96a-48e9-9343-f8ee5462250c",
+                            "undConsumo": 230,
+                            "qtTotal": "230.00",
+                            "qtNecessaria": "230.00",
+                            "qtSobra": "0.00",
+                            "minVlrConsumo": 8489.3,
+                            "stores": [
+                                {
+                                    "price": "36.91",
+                                    "storeUrl": "www.pro-reforma.com/loja",
+                                    "vlrConsumo": 8489.3,
+                                    "store": [
+                                        {
+                                            "name": "Pró-Reforma, preços de referência para você tomar a melhor decisão!",
+                                            "retail": [
+                                                {
+                                                    "name": "Pró-Reforma (Referencial de preços de serviços)",
+                                                    "logoUrl": "https://pro-ref.s3.amazonaws.com/4jtattca5m4klo6th5amd.jpg"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ],
+                            "products": {
+                                "id": "d96a54f9-f96a-48e9-9343-f8ee5462250c",
+                                "name": "Assentar piso de porcelanato entre 60cm até 90cm",
+                                "model": "não se aplica",
+                                "manufacturerCode": "",
+                                "manufacturerLink": "",
+                                "manualPdf": "",
+                                "commercialColor": "não se aplica",
+                                "benefits": "",
+                                "technicalObservations": "Base sem partes danificadas, ocas ou soltas. Ponto de água distante no máximo 10 metros sem escada. Ambiente desocupado e com iluminação adequada. Horário de trabalho de 8hs às 17hs. Ferramentas incluídas: balde, colher de pedreiro, desempenadeira.",
+                                "isService": true,
+                                "productCategoryId": "b8e92176-5a2b-4219-83cf-2c83a916b527",
+                                "manufacturers": {
+                                    "name": "serviço"
+                                }
+                            },
+                            "allOk": true,
+                            "page": 0,
+                            "appearFilt": true,
+                            "aPartirDe": 8489.3,
+                            "lowPrice": 36.91
+                        }
+                    ],
+                    "totalProducts": 1
+                }
+            ],
+            "questions": [],
+            "interventionName": "instalação de piso porcelanato"
+        },
+        {
+            "id": "e28b6dc5-7017-42e7-af0b-65b7a977408f",
+            "name": "MO - rejuntar",
+            "type": "Neutro",
+            "interventionId": "c11edad1-ae84-415c-afac-3143814fe896",
+            "productCategories": [
+                {
+                    "id": "2f4cf236-3d56-44e8-874b-3ebb749a8037",
+                    "name": "Serviço rejuntar revestimento de porcelanato",
+                    "unityMeasurement": "M2",
+                    "packageProdutcs": [],
+                    "totalProducts": 0
+                }
+            ],
+            "questions": [],
+            "interventionName": "instalação de piso porcelanato"
+        }
+    ],
+    "messages": [
+        "Sucesso."
+    ]
+}
